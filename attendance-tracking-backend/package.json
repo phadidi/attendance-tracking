@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@middy/core": "^2.5.3",
+    "@middy/http-json-body-parser": "^2.5.3",
+    "aws-sdk": "^2.1028.0",
+    "lambda-local": "^2.0.0",
+    "mysql": "^2.18.1",
+    "serverless-mysql": "^1.5.4",
+    "uuid": "^8.3.2"
+  }
+}
